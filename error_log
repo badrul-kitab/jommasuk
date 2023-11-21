@@ -1,0 +1,96 @@
+[18-Oct-2023 10:50:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php on line 6
+[18-Oct-2023 10:50:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php on line 6
+[18-Oct-2023 10:50:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php on line 6
+[18-Oct-2023 10:50:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php on line 6
+[18-Oct-2023 10:50:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php on line 6
+[18-Oct-2023 10:51:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php on line 5
+[18-Oct-2023 10:51:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php on line 5
+[18-Oct-2023 10:52:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php:373
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php on line 373
+[18-Oct-2023 10:52:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php:372
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php on line 372
+[18-Oct-2023 10:53:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php on line 42
+[18-Oct-2023 10:53:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php on line 42
+[18-Oct-2023 10:53:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php on line 42
+[18-Oct-2023 10:53:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php on line 42
+[18-Oct-2023 10:53:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php on line 42
+[18-Oct-2023 10:53:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php on line 42
+[18-Oct-2023 10:53:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php on line 42
+[18-Oct-2023 10:53:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php on line 42
+[18-Oct-2023 10:53:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php on line 42
+[18-Oct-2023 10:53:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php on line 42
+[18-Oct-2023 10:53:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php on line 42
+[18-Oct-2023 10:53:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php on line 42
+[18-Oct-2023 10:53:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php on line 42
+[23-Oct-2023 02:07:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php on line 72
+[23-Oct-2023 02:07:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/test.php on line 22

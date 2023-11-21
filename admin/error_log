@@ -1,0 +1,140 @@
+[16-Oct-2023 07:28:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 49
+[16-Oct-2023 07:28:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 63
+[16-Oct-2023 07:28:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 75
+[16-Oct-2023 07:39:41 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 49
+[16-Oct-2023 07:39:41 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 63
+[16-Oct-2023 07:39:41 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 75
+[16-Oct-2023 07:39:49 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 49
+[16-Oct-2023 07:39:49 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 63
+[16-Oct-2023 07:39:49 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 75
+[16-Oct-2023 07:39:57 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 49
+[16-Oct-2023 07:39:57 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 63
+[16-Oct-2023 07:39:57 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 75
+[18-Oct-2023 05:07:53 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 49
+[18-Oct-2023 05:07:53 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 63
+[18-Oct-2023 05:07:53 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 75
+[18-Oct-2023 05:08:28 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 49
+[18-Oct-2023 05:08:28 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 63
+[18-Oct-2023 05:08:28 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 75
+[18-Oct-2023 05:09:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 49
+[18-Oct-2023 05:09:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 63
+[18-Oct-2023 05:09:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 75
+[18-Oct-2023 07:19:42 UTC] PHP Warning:  include(dat.php): failed to open stream: No such file or directory in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 2
+[18-Oct-2023 07:19:42 UTC] PHP Warning:  include(): Failed opening 'dat.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 2
+[18-Oct-2023 07:19:42 UTC] PHP Warning:  include(func.php): failed to open stream: No such file or directory in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 3
+[18-Oct-2023 07:19:42 UTC] PHP Warning:  include(): Failed opening 'func.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 3
+[18-Oct-2023 07:19:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 83
+[18-Oct-2023 07:40:39 UTC] PHP Warning:  include(dat.php): failed to open stream: No such file or directory in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 2
+[18-Oct-2023 07:40:39 UTC] PHP Warning:  include(): Failed opening 'dat.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 2
+[18-Oct-2023 07:40:39 UTC] PHP Warning:  include(func.php): failed to open stream: No such file or directory in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 3
+[18-Oct-2023 07:40:39 UTC] PHP Warning:  include(): Failed opening 'func.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 3
+[18-Oct-2023 07:40:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 83
+[18-Oct-2023 08:03:06 UTC] PHP Warning:  include(dat.php): failed to open stream: No such file or directory in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 2
+[18-Oct-2023 08:03:06 UTC] PHP Warning:  include(): Failed opening 'dat.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 2
+[18-Oct-2023 08:03:06 UTC] PHP Warning:  include(func.php): failed to open stream: No such file or directory in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 3
+[18-Oct-2023 08:03:06 UTC] PHP Warning:  include(): Failed opening 'func.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 3
+[18-Oct-2023 08:03:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 83
+[18-Oct-2023 08:41:19 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 49
+[18-Oct-2023 08:41:19 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 63
+[18-Oct-2023 08:41:19 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 75
+[18-Oct-2023 08:41:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 49
+[18-Oct-2023 08:41:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 63
+[18-Oct-2023 08:41:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 75
+[18-Oct-2023 09:59:40 UTC] PHP Warning:  include(dat.php): failed to open stream: No such file or directory in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 2
+[18-Oct-2023 09:59:40 UTC] PHP Warning:  include(): Failed opening 'dat.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 2
+[18-Oct-2023 09:59:40 UTC] PHP Warning:  include(func.php): failed to open stream: No such file or directory in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 3
+[18-Oct-2023 09:59:40 UTC] PHP Warning:  include(): Failed opening 'func.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 3
+[18-Oct-2023 09:59:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 83
+[18-Oct-2023 10:40:54 UTC] PHP Warning:  include(dat.php): failed to open stream: No such file or directory in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 2
+[18-Oct-2023 10:40:54 UTC] PHP Warning:  include(): Failed opening 'dat.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 2
+[18-Oct-2023 10:40:54 UTC] PHP Warning:  include(func.php): failed to open stream: No such file or directory in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 3
+[18-Oct-2023 10:40:54 UTC] PHP Warning:  include(): Failed opening 'func.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 3
+[18-Oct-2023 10:40:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 82
+[18-Oct-2023 10:41:33 UTC] PHP Warning:  include(dat.php): failed to open stream: No such file or directory in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 2
+[18-Oct-2023 10:41:33 UTC] PHP Warning:  include(): Failed opening 'dat.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 2
+[18-Oct-2023 10:41:33 UTC] PHP Warning:  include(func.php): failed to open stream: No such file or directory in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 3
+[18-Oct-2023 10:41:33 UTC] PHP Warning:  include(): Failed opening 'func.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 3
+[18-Oct-2023 10:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 82
+[18-Oct-2023 10:43:01 UTC] PHP Warning:  include(dat.php): failed to open stream: No such file or directory in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 2
+[18-Oct-2023 10:43:01 UTC] PHP Warning:  include(): Failed opening 'dat.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 2
+[18-Oct-2023 10:43:01 UTC] PHP Warning:  include(func.php): failed to open stream: No such file or directory in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 3
+[18-Oct-2023 10:43:01 UTC] PHP Warning:  include(): Failed opening 'func.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 3
+[18-Oct-2023 10:43:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 82
+[18-Oct-2023 10:45:18 UTC] PHP Warning:  include(dat.php): failed to open stream: No such file or directory in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 2
+[18-Oct-2023 10:45:18 UTC] PHP Warning:  include(): Failed opening 'dat.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 2
+[18-Oct-2023 10:45:18 UTC] PHP Warning:  include(func.php): failed to open stream: No such file or directory in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 3
+[18-Oct-2023 10:45:18 UTC] PHP Warning:  include(): Failed opening 'func.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 3
+[18-Oct-2023 10:45:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 82
+[18-Oct-2023 10:46:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/index.php on line 23
+[18-Oct-2023 10:46:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/index.php on line 23
+[18-Oct-2023 10:46:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/index.php on line 23
+[18-Oct-2023 10:46:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/index.php on line 23
+[18-Oct-2023 10:46:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/index.php on line 23
+[18-Oct-2023 10:46:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/index.php on line 23
+[18-Oct-2023 10:46:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/index.php on line 23
+[18-Oct-2023 10:46:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/index.php on line 23
+[18-Oct-2023 10:46:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/index.php on line 23
+[19-Oct-2023 10:00:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 95
+[19-Oct-2023 10:00:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 129
+[19-Oct-2023 10:00:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 151
+[19-Oct-2023 10:00:40 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 95
+[19-Oct-2023 10:00:40 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 129
+[19-Oct-2023 10:00:40 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 151
+[19-Oct-2023 10:07:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 95
+[19-Oct-2023 10:07:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 129
+[19-Oct-2023 10:07:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/semakkelayakan.php on line 151
+[24-Oct-2023 03:29:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/kitabed1/public_html/kims.kitab.edu.my/test_jommasuk/jommasuk/admin/exportexcel.php on line 81

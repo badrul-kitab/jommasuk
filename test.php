@@ -105,29 +105,29 @@
  * limitations under the License.
  */
 // [START drive_create_folder]
-use Google\Client;
-use Google\Service\Drive;
+// use Google\Client;
+// use Google\Service\Drive;
 
-function createFolder()
-{
-    try {
-        $client = new Client();
-        $client->useApplicationDefaultCredentials();
-        $client->addScope(Drive::DRIVE);
-        $driveService = new Drive($client);
-        $fileMetadata = new Drive\DriveFile(array(
-            'name' => 'Invoices',
-            'mimeType' => 'application/vnd.google-apps.folder'
-        ));
-        $file = $driveService->files->create($fileMetadata, array(
-            'fields' => 'id'
-        ));
-        printf("Folder ID: %s\n", $file->id);
-        return $file->id;
-    } catch (Exception $e) {
-        echo "Error Message: " . $e;
-    }
-}
-// [END drive_create_folder]
-require_once 'vendor/autoload.php';
-createFolder();
+// function createFolder()
+// {
+//     try {
+//         $client = new Client();
+//         $client->useApplicationDefaultCredentials();
+//         $client->addScope(Drive::DRIVE);
+//         $driveService = new Drive($client);
+//         $fileMetadata = new Drive\DriveFile(array(
+//             'name' => 'Invoices',
+//             'mimeType' => 'application/vnd.google-apps.folder'
+//         ));
+//         $file = $driveService->files->create($fileMetadata, array(
+//             'fields' => 'id'
+//         ));
+//         printf("Folder ID: %s\n", $file->id);
+//         return $file->id;
+//     } catch (Exception $e) {
+//         echo "Error Message: " . $e;
+//     }
+// }
+// // [END drive_create_folder]
+// require_once 'vendor/autoload.php';
+// createFolder();
